@@ -1,0 +1,75 @@
+
+.Container {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;  
+    width: 100vw;
+
+}
+
+.img {
+
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+h4 {
+
+
+}
+
+.Form {
+
+    display: flex;
+    flex-direction: column;  
+    width: auto;
+    margin: 10px;
+   
+
+    
+}
+
+.Email {  
+
+    margin-bottom: 15px;
+    height: 20px;
+    width: 250px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+   
+    
+}
+
+.Password {
+
+    height: 20px;
+    width: 250px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    
+    
+}
+
+.Button {
+
+    width: 225px;
+    margin: 15px;
+    background-color: rgb(130, 1300, 120);
+    padding-left: 10px;
+    color: blue;
+}
+
+.Footer {
+
+    margin-top: 200px;
+    
+}
+
+h5 {
+
+    padding-top: 50px;
+    padding-right: 28px;
+}
+
